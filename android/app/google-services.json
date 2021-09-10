@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "589197599140",
+    "project_id": "demoproject-52b1d",
+    "storage_bucket": "demoproject-52b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589197599140:android:0be19eb0d006f15af02131",
+        "android_client_info": {
+          "package_name": "mn.nest.leap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589197599140-b5q7r8nbjecpb46o8t01g8169cfmtd59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mn.nest.leap",
+            "certificate_hash": "2a0c28e4ebdf8d1e27016e0fd323c2b98be2a181"
+          }
+        },
+        {
+          "client_id": "589197599140-mmfahg9of5q3b67t0savbsi9ukbn9f04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDulHiewVVyPgbuWlmRPUUTGatq0TXNjBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589197599140-mmfahg9of5q3b67t0savbsi9ukbn9f04.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589197599140-g37qhsk1trneu9hds20htt36uo77lgj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mn.nest.leap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
